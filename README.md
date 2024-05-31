@@ -1,6 +1,8 @@
 # BED WINC Booking-API
 
 ```plaintext
+
+To install:
 npm install
 
 starts server:
